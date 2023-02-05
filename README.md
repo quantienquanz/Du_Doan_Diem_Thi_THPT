@@ -1,2 +1,3 @@
 # Du_Doan_Diem_Thi_THPT
-Du_doan_diem_thi
+# Demo chương trình phân tích  EDA ( Exploratory Data Analysis) sử dụng dữ liệu điểm thi THPT quốc gia.
+# Dự đoán điểm thi THPT Quốc gia
